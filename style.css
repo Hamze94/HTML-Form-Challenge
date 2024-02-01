@@ -1,0 +1,17 @@
+html body{
+margin: 0;
+padding: 0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.form-input{
+    margin: auto;
+    width: 600px;
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+   
+   
+}
